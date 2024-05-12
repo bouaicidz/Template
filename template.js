@@ -1,10 +1,10 @@
 function Active() {
     if (HomeUrl === true) {
-        Bouaicizzzz = void 0 !== HomeUrl ? HomeUrl : "/p/contact-us.html";
+        Bouaici = void 0 !== HomeUrl ? HomeUrl : "/p/contact-us.html";
     } else {
-        Bouaicizzzz = void 0 !== HomeUrl ? HomeUrl : "/p/contact-us.html";
+        Bouaici = void 0 !== HomeUrl ? HomeUrl : "/p/contact-us.html";
     }
-    var t = Bouaicizzzz
+    var t = Bouaici
       , Linkk = window['location']['href']['toLowerCase']();
     if (Linkk['indexOf']('www.blogger') == -1 && Linkk['indexOf']('draft.blogger') == -1 && Linkk['indexOf']('template-editor') == -1 && Linkk['indexOf']('post-preview') == -1 && Linkk['indexOf']('b/layout-preview') == -1 && Linkk['indexOf']('b/blog-preview') == -1 && Linkk['indexOf']('b/preview') == -1 && Linkk['indexOf']('b/html-preview') == -1 && Linkk['indexOf']('b/app-preview') == -1 && Linkk['indexOf']('translate.google') == -1 && Linkk['indexOf']('webcache.googleusercontent') == -1) {
         "undefined" != typeof _WidgetManager && (t = _WidgetManager._GetAllData().blog.homepageUrl);
@@ -14,14 +14,14 @@ function Active() {
           , o = t.toLowerCase()
           , n = "Bouaici-Template - Bouaici Template"
           , i = "" + trans[27]
-          , r = "" + o + "&keyactive=" + copyrights.active + "&version=3.0.0&product=" + n + "&action=copyrights"
+          , r = "" + o + "&keyactive=" + copyrights.active + "&version=7.0.0&product=" + n + "&action=copyrights"
           , l = {
-            team: "Bouaici team",
+            team: "Bouaici",
             link: "https://bouaici-templates.blogspot.com/"
         }
           , d = {
             copyright: function(t) {
-                t && ($("html").html('<div style="font: 14px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;position: fixed;overflow-x: hidden;background: #f8f8f8;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;z-index: 1;text-align: center;"><div style="position: relative;padding: 2em;width: 80%;max-width: 600px;min-width: 200px;margin: 5em auto;background: white;box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);-webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);"><div><div style="color: #fff; position: absolute; margin: 0 auto; left: 0; right: 0; top: -25px; width: 50px; height: 50px; line-height: 50px; border-radius: 50%; -webkit-border-radius: 50%; z-index: 9; background: #c31432; padding: 0; text-align: center; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.26); -webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.26); font-size: 2em; font-family: arial; text-decoration: none;"><span>©</span></div><h4 style="text-align: center; font-size: 26px; margin: 30px 0 15px;line-height: normal;">عفواً..!!</h4></div><div style="position: relative;padding: 5px;text-align: right;font-size: 14px;"><p>لا يمكنك إستخدام هذا القالب .. هذا التوقف يحدث تلقائياً بسبب مايلي ..</p><p><span style="font-size: 17px; font-weight: bold; color: #c31432;">1</span>-العبث بحقوق ملكية التصميم!..كإخفاء توقيع المصمم</p><p><span style="font-size: 17px; font-weight: bold; color: #c31432;">2</span>-لا تملك رخصة؟ .. للحصول على تفعيل القالب يرجى<a style="color: #c31432;font-size: 14px; font-weight: 400;" href="https://bouaici-templates.blogspot.com//?view=Activation&type=request"> طلب رخصة </a></p><p><span style="font-size: 17px; font-weight: bold; color: #c31432;">3</span>-تملك رخصة ومع ذلك لا تستطيع إستخدام هذا القالب .. يرجى التواصل بـ  <a style="color: #c31432;font-size: 14px; font-weight: 400;" href="https://mail.google.com/mail/?ui=2&view=cm&fs=1&tf=1&to=mogamal.main@gmail.com&su=طلب الدعم الفني للمنتج (Bouaici-Template - Bouaici Template)&body=أكتب مشكلتك هنا..."> فريق الدعم </a></p></div><div style="text-align: center; overflow: hidden;"><a style="color: #fff;background: #c31432;text-decoration: none;display: block;max-width: 180px;padding: 10px 12px;margin: 5px auto;font-size: 14px;font-weight: 400;line-height: 1.42857143;text-align: center;white-space: nowrap;vertical-align: middle;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;background-image: none;border: 0;box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);-webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);" href="https://bouaici-templates.blogspot.com/">الصفحة الرسمية</a></div></div></div>'),
+                t && ($("html").html('<div style="font: 14px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;position: fixed;overflow-x: hidden;background: #f8f8f8;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;z-index: 1;text-align: center;"><div style="position: relative;padding: 2em;width: 80%;max-width: 600px;min-width: 200px;margin: 5em auto;background: white;box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);-webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);"><div><div style="color: #fff; position: absolute; margin: 0 auto; left: 0; right: 0; top: -25px; width: 50px; height: 50px; line-height: 50px; border-radius: 50%; -webkit-border-radius: 50%; z-index: 9; background: #c31432; padding: 0; text-align: center; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.26); -webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.26); font-size: 2em; font-family: arial; text-decoration: none;"><span>©</span></div><h4 style="text-align: center; font-size: 26px; margin: 30px 0 15px;line-height: normal;">عفواً..!!</h4></div><div style="position: relative;padding: 5px;text-align: right;font-size: 14px;"><p>لا يمكنك إستخدام هذا القالب .. هذا التوقف يحدث تلقائياً بسبب مايلي ..</p><p><span style="font-size: 17px; font-weight: bold; color: #c31432;">1</span>-العبث بحقوق ملكية التصميم!..كإخفاء توقيع المصمم</p><p><span style="font-size: 17px; font-weight: bold; color: #c31432;">2</span>-لا تملك رخصة؟ .. للحصول على تفعيل القالب يرجى<a style="color: #c31432;font-size: 14px; font-weight: 400;" href="https://bouaici-templates.blogspot.com//?view=Activation&type=request"> طلب رخصة </a></p><p><span style="font-size: 17px; font-weight: bold; color: #c31432;">3</span>-تملك رخصة ومع ذلك لا تستطيع إستخدام هذا القالب .. يرجى التواصل بـ  <a style="color: #c31432;font-size: 14px; font-weight: 400;" href="https://mail.google.com/mail/?ui=2&view=cm&fs=1&tf=1&to=bouaici@gmail.com&su=طلب الدعم الفني للمنتج (Bouaici-Template - Bouaici Template)&body=أكتب مشكلتك هنا..."> فريق الدعم </a></p></div><div style="text-align: center; overflow: hidden;"><a style="color: #fff;background: #c31432;text-decoration: none;display: block;max-width: 180px;padding: 10px 12px;margin: 5px auto;font-size: 14px;font-weight: 400;line-height: 1.42857143;text-align: center;white-space: nowrap;vertical-align: middle;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;background-image: none;border: 0;box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);-webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2), 0px 1px 1px 0 rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);" href="https://bouaici-templates.blogspot.com/">الصفحة الرسمية</a></div></div></div>'),
                 setInterval(function() {
                     window.location.href = t
                 }, 6e4))
@@ -45,7 +45,7 @@ function Active() {
                     }
                 } else
                     d.copyright(e.link);
-                console.log("%c" + a + "\n%cURL: " + e.link + "\nby: " + e.team + "\nCopyright: 2019", s, o)
+                console.log("%c" + a + "\n%cURL: " + e.link + "\nby: " + e.team + "\nCopyright: 2023", s, o)
             }
         };
         jQuery.ajax({
@@ -63,16 +63,16 @@ function Active() {
                   , c = o.by
                   , p = o.host;
                 d.macros(p, c, n, e, a, i, r),
-                console.log("%cStatus: " + i + "\nCreated: " + r + "\nVersion: 2.1.1 (" + l + ")", s)
+                console.log("%cStatus: " + i + "\nCreated: " + r + "\nVersion: 7.0.0 (" + l + ")", s)
             },
             error: function(t, o, i) {
                 d.macros(window.location.hostname, l, n, e, a, !0, !0),
-                console.log("%cStatus: " + o + "\nVersion: 3.0.0", s)
+                console.log("%cStatus: " + o + "\nVersion: 7.0.0", s)
             }
         })
     } else {
         var styles4 = ['background: #c31432', 'color: #ffffff', 'font-size:12px', 'padding: 0 5px', 'margin: 2px 0', 'border-radius: 30px'].join(';');
-        console.log('%cStatus: true\nCreated: true\nVersion: 3.0.0', styles4)
+        console.log('%cStatus: true\nCreated: true\nVersion: 7.0.0', styles4)
     }
 }
 Active();
